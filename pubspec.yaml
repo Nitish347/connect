@@ -45,6 +45,7 @@ dependencies:
   fluid_bottom_nav_bar:
   google_fonts:
   uuid:
+  intl:
 
 
 dev_dependencies:
