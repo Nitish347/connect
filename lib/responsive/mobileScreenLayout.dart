@@ -64,7 +64,7 @@ class _MobileScreenLayoutState extends State<MobileScreenLayout> {
 
   @override
   Widget build(BuildContext context) {
-    // UserData user = Provider.of<UserProvider>(context).getUser;
+    UserData? user = Provider.of<UserProvider>(context).getUser;
 
     return Scaffold(
         bottomNavigationBar: CupertinoTabBar(
