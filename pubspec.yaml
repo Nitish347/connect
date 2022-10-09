@@ -46,6 +46,7 @@ dependencies:
   google_fonts:
   uuid:
   intl:
+  flutter_staggered_grid_view:
 
 
 dev_dependencies:
